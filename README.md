@@ -23,7 +23,7 @@ IEEE Conference on Computer Vision and Pattern Recognition ([CVPR](http://cvpr20
 ### 1. Clone the code
 ```bash
 git clone https://github.com/HeroKillerEver/StarGAN-tensorflow.git
-cd star-gan
+cd StarGAN-tensorflow
 ```
 
 ### 2. Download the dataset
@@ -52,4 +52,4 @@ to see all of the input arguments
 
 ## Author
 
-Haibin Yu [@HeroKillerEver(https://github.com/HeroKillerEver)
+Haibin Yu [@HeroKillerEver](https://github.com/HeroKillerEver)
